@@ -4,7 +4,7 @@
 #include <Ultrasonic.h>
 
 // Inicializa o objeto do sensor ultrasônico
-// Usando as portas 12 e 13 para trigger e echo
+// Usando as portas 09 e 10 para trigger e echo
 Ultrasonic ultrasonic(9, 10);
 
 void setup() {
